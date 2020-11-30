@@ -21,7 +21,7 @@ npm run lint
 ```
 ## Demo version 
 ```
-https://focused-mayer-2614f7.netlify.app
+https://users-apps.netlify.app
 ```
 ## Email for authentication 
 ```
